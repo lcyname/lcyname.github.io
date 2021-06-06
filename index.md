@@ -6,7 +6,7 @@ Syntax highlighted code block
 
 # helloWorld 
 ## helloGithub
-### Header 3
+
 
 - Bulleted
 - List
